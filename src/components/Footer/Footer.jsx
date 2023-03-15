@@ -21,31 +21,31 @@ const Footer = () => {
             <h3>Copyright © {year}</h3>
             
           </Col>
-          <Col md="4" className="footer-body">
-            <ul className="footer-icons">
-              <li className="social-icons">
-                <a
-                  href="https://github.com/DrewAce"
-                  style={{ color: "white" }}
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/juan-andr%C3%A9s-carmona-le%C3%B3n-52a378261/"
-                  style={{ color: "white" }}
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-              
-            </ul>
+          <Col>
+          <ul className="contact-social-links">
+                  <li className="contact-icons">
+                    <a
+                      href="https://github.com/DrewAce"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="icon-color  contact-social-icons"
+                    >
+                      <AiFillGithub />
+                    </a>
+                  </li>
+                
+                  <li className="contact-icons">
+                    <a
+                      href="https://www.linkedin.com/in/juan-andr%C3%A9s-carmona-le%C3%B3n-52a378261/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="icon-color  contact-social-icons"
+                    >
+                      <FaLinkedinIn />
+                    </a>
+                  </li>
+               
+                </ul>
           </Col>
         </Row>
       </Container>
