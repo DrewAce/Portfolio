@@ -8,6 +8,7 @@ import lift from "../assets/projects/lift.png";
 import RickAndMorty from "../assets/projects/RickAndMorty.png"
 import shoppingcart from "../assets/projects/shoppingcart.PNG"
 import gpt3 from "../assets/projects/gpt3.PNG"
+import Countries from "../assets/projects/Countries.PNG"
 import krypto from "../assets/projects/krypto.png";
 import kickstart from "../assets/projects/kickstart.png";
 
@@ -54,6 +55,17 @@ const Projects = () => {
               description="This was my first React project, a basic shopping cart, where you can add 3 products into the shopping cart In this project im using class components instead of functional components."
               ghLink="https://github.com/DrewAce/ShoppingCart"
               demoLink="https://shopping-cart-delta-one.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Countries}
+              isBlog={false}
+              title="Henry Countries"
+              description="This is a Web Application using the RestCountries API, where you can make a CRUD with all the information the API gives you, and you can create activities related with the countries, This application was made using React.JS Node.JS Redux.JS SequelizeORM SQL Databases, CSS, and Javascript"
+              ghLink="https://github.com/DrewAce/Countries-PI-"
+              demoLink="https://countries-pi-pink.vercel.app/"
             />
           </Col>
 
