@@ -24,7 +24,7 @@ const About = () => {
                  and I'm from <span className="yellow"> Bogotá, Colombia.</span>
                 <br />
                 <br />
-                Im a Software Engineering student, and im about to graduate of a fullstack development Bootcamp called <span className="yellow"> SoyHenry</span> 
+                Im a Software Engineering student, and im a graduate from a fullstack development Bootcamp called <span className="yellow"> SoyHenry</span> 
                 <br />
                 <br />
                   As a
