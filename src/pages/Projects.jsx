@@ -9,6 +9,7 @@ import RickAndMorty from "../assets/projects/RickAndMorty.png"
 import shoppingcart from "../assets/projects/shoppingcart.PNG"
 import gpt3 from "../assets/projects/gpt3.PNG"
 import Countries from "../assets/projects/Countries.PNG"
+import ChicCloset from "../assets/projects/Chiccloset.PNG"
 import krypto from "../assets/projects/krypto.png";
 import kickstart from "../assets/projects/kickstart.png";
 
@@ -69,7 +70,16 @@ const Projects = () => {
             />
           </Col>
 
-        
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ChicCloset}
+              isBlog={false}
+              title="Chic Closet"
+              description="This is a web application for an online clothes store called ChicCloset, this application uses the next technologies: MongoDB, React, Redux, Express, was deployed on firebase"
+              ghLink="https://github.com/rdtaipe/Henry-PF-MERN-stack"
+              demoLink="https://chiccloset-service.web.app/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
