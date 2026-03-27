@@ -2,21 +2,21 @@ import React from "react";
 import Typewriter from "typewriter-effect";
 
 const Type = () => {
-    return (
-        <Typewriter
-          options={{
-            strings: [
-              "Front End Developer",
-              "FullStack Developer",
-              "Software Engineering Student",
-              "Technology Passionate"
-            ],
-            autoStart: true,
-            loop: true,
-            deleteSpeed: 50,
-          }}
-        />
-      )
+  return (
+    <Typewriter
+      options={{
+        strings: [
+          "Software Engineer",
+          "Full Stack Developer",
+          "Email Developer",
+          "Salesforce Marketing Cloud Email Specialist"
+        ],
+        autoStart: true,
+        loop: true,
+        deleteSpeed: 50,
+      }}
+    />
+  )
 }
 
 export default Type

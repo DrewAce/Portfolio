@@ -4,27 +4,19 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiGit,
-  DiBootstrap,
-  DiMysql,
-  DiPostgresql,
-  DiGithub,
 } from "react-icons/di";
 import {
-  SiMaterialui,
-  SiGraphql,
-  SiSolidity,
-  SiRedux,
-  SiMongodb,
-  SiHtml5
+  SiSalesforce,
+  SiNextdotjs,
+  SiGooglegemini,
+  SiClaude,
+  SiAstro
 } from "react-icons/si";
+import { FaRobot } from "react-icons/fa";
 
 const Techstack = () => {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHtml5 />
-      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
@@ -35,20 +27,22 @@ const Techstack = () => {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedux />
+        <SiAstro />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiBootstrap />
+        <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMysql />
+        <SiSalesforce />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPostgresql />
+        <FaRobot />
       </Col>
-      
       <Col xs={4} md={2} className="tech-icons">
-        <DiGithub />
+        <SiGooglegemini />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiClaude />
       </Col>
     </Row>
   );

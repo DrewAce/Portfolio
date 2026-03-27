@@ -6,7 +6,7 @@ import pg from "../assets/projects/pg.png";
 import project from "../assets/projects/project.jpeg";
 import lift from "../assets/projects/lift.png";
 import RickAndMorty from "../assets/projects/RickAndMorty.png"
-import shoppingcart from "../assets/projects/shoppingcart.PNG"
+import porsche911 from "../assets/projects/porsche911.png"
 import gpt3 from "../assets/projects/gpt3.PNG"
 import Countries from "../assets/projects/Countries.PNG"
 import ChicCloset from "../assets/projects/Chiccloset.PNG"
@@ -50,12 +50,12 @@ const Projects = () => {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={shoppingcart}
+              imgPath={porsche911}
               isBlog={false}
-              title="Shopping Cart"
-              description="This was my first React project, a basic shopping cart, where you can add 3 products into the shopping cart In this project im using class components instead of functional components."
-              ghLink="https://github.com/DrewAce/ShoppingCart"
-              demoLink="https://shopping-cart-delta-one.vercel.app/"
+              title="Porsche 911 964 Tribute page"
+              description="Built a modern web experience using Next.js and TypeScript, leveraging AI-assisted development to accelerate implementation while maintaining clean architecture and performance best practices."
+              ghLink="https://github.com/DrewAce/Porsche-911-964-Page"
+              demoLink="https://porsche-911-964-page.vercel.app/"
             />
           </Col>
 
