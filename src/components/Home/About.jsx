@@ -17,19 +17,19 @@ const About = () => {
               and I'm a <span className="yellow">Software Engineer</span> based in Bogotá, Colombia.
               <br />
               <br />
-              I am a <b className="yellow">Bachelor of Software Engineering</b> graduate and a <span className="yellow">Certified Salesforce Marketing Cloud Email Specialist</span> with over 2.5 years of experience in the tech industry.
+              I am a <b className="yellow">Bachelor of Software Engineering</b> graduate and a <span className="yellow">Certified Salesforce Email Specialist</span> with over 2.5 years of professional experience.
               <br />
               <br />
-              I currently work as an <b className="yellow">Experience Technology Engineer</b> at Publicis Global Delivery, where I develop and maintain digital solutions for global clients like <b className="yellow">Pfizer.</b>
+              Currently, I work as an <b className="yellow">Experience Technology Engineer</b> at Publicis Global Delivery. I have worked primarily in <b className="yellow">Email Engineering</b>, developing high-fidelity and dark-mode architectures for global clients like <b className="yellow">Pfizer.</b>
               <br />
               <br />
-              As a developer, I enjoy the challenge of building clean and efficient code. I'm proficient in <b className="yellow">Javascript,</b> and I have experience working with <b className="yellow">Node.js, React.js,</b> and <b className="yellow">Astro</b> to automate internal workflows.
+              I’ve worked architecting complex email campaigns based on <b className="yellow">UX designs (Figma and Adobe Suite)</b> using <b className="yellow">HTML/CSS (VML)</b>, ensuring pixel-perfect rendering across all major clients. I am also proficient in <b className="yellow">AMPscript, Salesforce Marketing Cloud Content Builder, and Dynamic Content creation.</b>
               <br />
               <br />
-              I am also interested in exploring <b className="yellow">Web Technologies</b> and <b className="yellow">Artificial Intelligence</b>, always looking for new ways to expand my skillset and grow professionally.
+              I am also proficient in <b className="yellow">Javascript and Node.js</b>, using <b className="yellow">React.js</b> to build tools that automate development workflows, and I am currently expanding my knowledge in <b className="yellow">Next.js</b> to grow as a full-stack developer.
               <br />
               <br />
-              Beyond coding, I have a deep interest in <b className="yellow">high-altitude geography</b>, spending time with my orange cat <b className="yellow">Tetris</b>, and everything related to <b className="yellow">Porsche 911</b> engineering and history.
+              Beyond coding, I have a deep interest in <b className="yellow">high-altitude geography</b>, spending time with my cat <b className="yellow">Tetris</b>, and everything related to <b className="yellow">Porsche 911</b> engineering and history.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
