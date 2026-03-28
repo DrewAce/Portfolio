@@ -2,16 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 import Particle from "../components/Particle";
-import pg from "../assets/projects/pg.png";
-import project from "../assets/projects/project.jpeg";
-import lift from "../assets/projects/lift.png";
 import RickAndMorty from "../assets/projects/RickAndMorty.png"
 import porsche911 from "../assets/projects/porsche911.png"
 import gpt3 from "../assets/projects/gpt3.PNG"
 import Countries from "../assets/projects/Countries.PNG"
 import ChicCloset from "../assets/projects/Chiccloset.PNG"
-import krypto from "../assets/projects/krypto.png";
-import kickstart from "../assets/projects/kickstart.png";
 
 const Projects = () => {
   return (

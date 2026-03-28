@@ -2,7 +2,6 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   SiPostman,
-  SiHeroku,
   SiVercel,
   SiNetlify,
   SiRailway
