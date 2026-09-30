@@ -17,7 +17,7 @@ const About = () => {
               and I'm a <span className="yellow">Software Engineer</span> based in Bogotá, Colombia.
               <br />
               <br />
-              I am a <b className="yellow">Bachelor of Software Engineering</b> graduate and a <span className="yellow">Certified Salesforce Email Specialist</span> with over 2.5 years of professional experience.
+              I am a <b className="yellow">Bachelor of Software Engineering</b> graduate and a <span className="yellow">Certified Salesforce Email Specialist</span> with over 3 years of professional experience.
               <br />
               <br />
               Currently, I work as an <b className="yellow">Experience Technology Engineer</b> at Publicis Global Delivery. I have worked primarily in <b className="yellow">Email Engineering</b>, developing high-fidelity and dark-mode architectures for global clients like <b className="yellow">Pfizer.</b>
